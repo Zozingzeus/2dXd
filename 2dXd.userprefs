@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pets\Bird.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\Player.cs" Line="42" Column="32" />
+      <File FileName="Assets\Scripts\Pets\Pet.cs" Line="22" Column="24" />
+      <File FileName="Assets\Scripts\Pets\Bird.cs" Line="35" Column="113" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
